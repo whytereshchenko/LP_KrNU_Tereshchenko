@@ -1,2 +1,3 @@
-# LP_KrNU_Tereshchenko-
+# LP_KrNU_Tereshchenko
+
 Логічне програмування Prolog
